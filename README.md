@@ -1,2 +1,5 @@
 # hyperblog
-an amazing blog to the Git and GitHub platzi's course 
+Blog de Curso de Git-GitHub
+>En este curso aprendí muchas cosas acerca de comandos de git y repositorios remotos en GitHub
+
+## Keep learning
